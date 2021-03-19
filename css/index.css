@@ -63,7 +63,7 @@ img {
 
 .showcase {
   grid-area: showcase;
-  min-height: 400px;
+  min-height: 90px;
   background: url(img/index.jpg);
   background-size: cover;
   background-position: center;
@@ -104,8 +104,9 @@ img {
 /* Footer */
 footer {
   margin-top: 2rem;
-  background: var(--dark);
-  color: var(--light);
+  /*background: var(--dark);*/
+  /*color: var(--light);*/
+  color: var(--dark);
   text-align: center;
   padding: 1rem;
 }
